@@ -1,0 +1,8 @@
+Flask~=2.3.2
+Flask-SQLAlchemy
+Authlib
+gunicorn~=20.1.0
+psycopg2-binary~=2.9.1
+supabase~=1.0.3
+schedule~=1.2.0
+Flask-Mail~=0.9.1
